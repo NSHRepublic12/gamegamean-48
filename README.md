@@ -1,6 +1,6 @@
 # Gamegamean-48 🎮
 
-**Gamegamean-48** adalah project sederhana berbasis HTML + CSS untuk membuat halaman **Download Center**.  
+**Gamegamean-48** adalah project sederhana berbasis HTML + CSS **Download Center**.  
 Website ini menampilkan daftar game dan software dengan tombol unduh langsung.
 
 ## ✨ Fitur
